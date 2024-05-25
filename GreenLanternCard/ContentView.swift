@@ -31,10 +31,8 @@ struct ContentView: View {
                 Text("Green Lantern")
                     .foregroundColor(.white)
                     .font(.system(size: 25))
-                Divider()
-                InfoView(text: "303-444-33-11", iconName: "phone.fill")
-                Divider()
-                InfoView(text: "greenlantern@gmail.com", iconName: "envelope.fill")
+                InfoView(text: "333-444-55-66", iconName: "phone.fill")
+                InfoView(text: "greenlantern@dcuniverce.com", iconName: "envelope.fill")
             }
         }
     }

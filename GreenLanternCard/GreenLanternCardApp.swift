@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct IliaCardApp: App {
+struct GreenLanternCardApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
