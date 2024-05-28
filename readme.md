@@ -3,4 +3,4 @@
 
 ## Description
 
-It's a news app that uses the https://hn.algolia.com/api. 
+It's a small app where I started learning the Swift UI and its syntax. No functionality
